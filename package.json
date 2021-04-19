@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bootstrap": "^4.6.0",
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
   }
 }
