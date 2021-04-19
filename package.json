@@ -12,6 +12,7 @@
     "gulp": "^4.0.2"
   },
   "dependencies": {
-    "bootstrap": "^5.0.0-beta3"
+    "bootstrap": "^5.0.0-beta3",
+    "handlebars": "^4.7.7"
   }
 }
